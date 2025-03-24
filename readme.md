@@ -11,7 +11,7 @@
 
 ## 🚀 Features
 - **Data Processing**: Cleans and preprocesses movie datasets.
-- **Vectorization**: Uses TF-IDF and Cosine Similarity for feature extraction.
+- **Vectorization**: Uses **Bag of Words (BoW)** for feature extraction.
 - **Recommendation Engine**: Finds similar movies based on content.
 - **Interactive Frontend**: User-friendly web interface with Streamlit.
 
